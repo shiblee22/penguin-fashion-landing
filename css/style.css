@@ -1,0 +1,61 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.jacket-card {
+    border:0;
+    border-radius: 15px;
+    box-shadow: whitesmoke;
+}
+
+.jacket-image {
+    width: 100%;
+    height: 50vh;
+}
+
+.jacket-name {
+    color: rgb(2, 2, 61);
+    font-weight: 700;
+}
+
+.jacket-background {
+    background-color: lightgray;
+    border-radius: 15px;
+}
+
+.jacket-footer {
+    border-top: 0;
+    background-color:transparent;
+}
+.penguin-logo {
+    width: 300px;
+}
+
+.bottom-images {
+    width: 120px;
+    height: 120px;
+}
+
+.buy-button {
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 10px;
+}
+
+.bottom-cards {
+    max-width: 540px;
+    border: 0;
+    border-radius: 15px;
+}
+
+.price-tag {
+    color: rgb(255, 196, 0);
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.category-name {
+    color: rgb(2, 2, 61); 
+    font-size: 40px; 
+    font-weight: 700;
+}
